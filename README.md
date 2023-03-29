@@ -1,2 +1,3 @@
-# potencia-tech
-Atividades desenvolvidas no bootcamp Potência Tech Angular Developer - Powered by iFood. 🎈
+# Potência Tech Angular Developer - Powered by iFood. 🎈
+
+Repositório para atividades desenvolvidas durante o bootcamp da Potência Tech.
